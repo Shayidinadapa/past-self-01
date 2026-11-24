@@ -1,0 +1,1 @@
+{"description":"Two lines to your past self — a warning about one specific moment, and why it mattered. make.fun bounty entry.","engines":{"node":">=22.18"},"license":"MIT","main":"main.ts","name":"past-self-01","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
